@@ -1,4 +1,0 @@
-
-{frontmatter}
-
-# Dedication

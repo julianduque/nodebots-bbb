@@ -1,4 +1,3 @@
-dedication.md
 acknowledgements.md
 introduction.md
 getting-started.md
